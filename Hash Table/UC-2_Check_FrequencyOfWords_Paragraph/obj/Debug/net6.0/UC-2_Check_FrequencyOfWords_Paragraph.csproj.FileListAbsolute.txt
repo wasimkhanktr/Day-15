@@ -1,0 +1,15 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\Hash Table\UC-2_Check_FrequencyOfWords_Paragraph\bin\Debug\net6.0\UC-2_Check_FrequencyOfWords_Paragraph.exe
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\Hash Table\UC-2_Check_FrequencyOfWords_Paragraph\bin\Debug\net6.0\UC-2_Check_FrequencyOfWords_Paragraph.deps.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\Hash Table\UC-2_Check_FrequencyOfWords_Paragraph\bin\Debug\net6.0\UC-2_Check_FrequencyOfWords_Paragraph.runtimeconfig.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\Hash Table\UC-2_Check_FrequencyOfWords_Paragraph\bin\Debug\net6.0\UC-2_Check_FrequencyOfWords_Paragraph.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\Hash Table\UC-2_Check_FrequencyOfWords_Paragraph\bin\Debug\net6.0\UC-2_Check_FrequencyOfWords_Paragraph.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\Hash Table\UC-2_Check_FrequencyOfWords_Paragraph\obj\Debug\net6.0\UC-2_Check_FrequencyOfWords_Paragraph.csproj.AssemblyReference.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\Hash Table\UC-2_Check_FrequencyOfWords_Paragraph\obj\Debug\net6.0\UC-2_Check_FrequencyOfWords_Paragraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\Hash Table\UC-2_Check_FrequencyOfWords_Paragraph\obj\Debug\net6.0\UC-2_Check_FrequencyOfWords_Paragraph.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\Hash Table\UC-2_Check_FrequencyOfWords_Paragraph\obj\Debug\net6.0\UC-2_Check_FrequencyOfWords_Paragraph.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\Hash Table\UC-2_Check_FrequencyOfWords_Paragraph\obj\Debug\net6.0\UC-2_Check_FrequencyOfWords_Paragraph.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\Hash Table\UC-2_Check_FrequencyOfWords_Paragraph\obj\Debug\net6.0\UC-2_Check_FrequencyOfWords_Paragraph.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\Hash Table\UC-2_Check_FrequencyOfWords_Paragraph\obj\Debug\net6.0\refint\UC-2_Check_FrequencyOfWords_Paragraph.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\Hash Table\UC-2_Check_FrequencyOfWords_Paragraph\obj\Debug\net6.0\UC-2_Check_FrequencyOfWords_Paragraph.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\Hash Table\UC-2_Check_FrequencyOfWords_Paragraph\obj\Debug\net6.0\UC-2_Check_FrequencyOfWords_Paragraph.genruntimeconfig.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\Hash Table\UC-2_Check_FrequencyOfWords_Paragraph\obj\Debug\net6.0\ref\UC-2_Check_FrequencyOfWords_Paragraph.dll

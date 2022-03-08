@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UC-3_Removing_Word_from_Paragraph/1.0.0": {
+        "runtime": {
+          "UC-3_Removing_Word_from_Paragraph.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UC-3_Removing_Word_from_Paragraph/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

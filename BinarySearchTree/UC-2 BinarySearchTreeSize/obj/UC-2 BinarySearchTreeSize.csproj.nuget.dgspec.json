@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wasimkhanktr\\Desktop\\BridgeLabs\\C#\\DAY-15\\BinarySearchTree\\UC-2 BinarySearchTreeSize\\UC-2 BinarySearchTreeSize.csproj": {}
+    "C:\\Users\\wasimkhanktr\\Desktop\\BridgeLabs\\Git\\Day-15\\BinarySearchTree\\UC-2 BinarySearchTreeSize\\UC-2 BinarySearchTreeSize.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wasimkhanktr\\Desktop\\BridgeLabs\\C#\\DAY-15\\BinarySearchTree\\UC-2 BinarySearchTreeSize\\UC-2 BinarySearchTreeSize.csproj": {
+    "C:\\Users\\wasimkhanktr\\Desktop\\BridgeLabs\\Git\\Day-15\\BinarySearchTree\\UC-2 BinarySearchTreeSize\\UC-2 BinarySearchTreeSize.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wasimkhanktr\\Desktop\\BridgeLabs\\C#\\DAY-15\\BinarySearchTree\\UC-2 BinarySearchTreeSize\\UC-2 BinarySearchTreeSize.csproj",
+        "projectUniqueName": "C:\\Users\\wasimkhanktr\\Desktop\\BridgeLabs\\Git\\Day-15\\BinarySearchTree\\UC-2 BinarySearchTreeSize\\UC-2 BinarySearchTreeSize.csproj",
         "projectName": "UC-2 BinarySearchTreeSize",
-        "projectPath": "C:\\Users\\wasimkhanktr\\Desktop\\BridgeLabs\\C#\\DAY-15\\BinarySearchTree\\UC-2 BinarySearchTreeSize\\UC-2 BinarySearchTreeSize.csproj",
+        "projectPath": "C:\\Users\\wasimkhanktr\\Desktop\\BridgeLabs\\Git\\Day-15\\BinarySearchTree\\UC-2 BinarySearchTreeSize\\UC-2 BinarySearchTreeSize.csproj",
         "packagesPath": "C:\\Users\\wasimkhanktr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wasimkhanktr\\Desktop\\BridgeLabs\\C#\\DAY-15\\BinarySearchTree\\UC-2 BinarySearchTreeSize\\obj\\",
+        "outputPath": "C:\\Users\\wasimkhanktr\\Desktop\\BridgeLabs\\Git\\Day-15\\BinarySearchTree\\UC-2 BinarySearchTreeSize\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

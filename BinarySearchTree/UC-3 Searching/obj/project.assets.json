@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wasimkhanktr\\Desktop\\BridgeLabs\\C#\\DAY-15\\BinarySearchTree\\UC-3 Searching\\UC-3 Searching.csproj",
+      "projectUniqueName": "C:\\Users\\wasimkhanktr\\Desktop\\BridgeLabs\\Git\\Day-15\\BinarySearchTree\\UC-3 Searching\\UC-3 Searching.csproj",
       "projectName": "UC-3 Searching",
-      "projectPath": "C:\\Users\\wasimkhanktr\\Desktop\\BridgeLabs\\C#\\DAY-15\\BinarySearchTree\\UC-3 Searching\\UC-3 Searching.csproj",
+      "projectPath": "C:\\Users\\wasimkhanktr\\Desktop\\BridgeLabs\\Git\\Day-15\\BinarySearchTree\\UC-3 Searching\\UC-3 Searching.csproj",
       "packagesPath": "C:\\Users\\wasimkhanktr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wasimkhanktr\\Desktop\\BridgeLabs\\C#\\DAY-15\\BinarySearchTree\\UC-3 Searching\\obj\\",
+      "outputPath": "C:\\Users\\wasimkhanktr\\Desktop\\BridgeLabs\\Git\\Day-15\\BinarySearchTree\\UC-3 Searching\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
