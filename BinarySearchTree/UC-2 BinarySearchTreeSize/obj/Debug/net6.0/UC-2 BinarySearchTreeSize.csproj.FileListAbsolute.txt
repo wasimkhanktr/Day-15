@@ -1,0 +1,15 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\BinarySearchTree\UC-2 BinarySearchTreeSize\bin\Debug\net6.0\UC-2 BinarySearchTreeSize.exe
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\BinarySearchTree\UC-2 BinarySearchTreeSize\bin\Debug\net6.0\UC-2 BinarySearchTreeSize.deps.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\BinarySearchTree\UC-2 BinarySearchTreeSize\bin\Debug\net6.0\UC-2 BinarySearchTreeSize.runtimeconfig.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\BinarySearchTree\UC-2 BinarySearchTreeSize\bin\Debug\net6.0\UC-2 BinarySearchTreeSize.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\BinarySearchTree\UC-2 BinarySearchTreeSize\bin\Debug\net6.0\UC-2 BinarySearchTreeSize.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\BinarySearchTree\UC-2 BinarySearchTreeSize\obj\Debug\net6.0\UC-2 BinarySearchTreeSize.csproj.AssemblyReference.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\BinarySearchTree\UC-2 BinarySearchTreeSize\obj\Debug\net6.0\UC-2 BinarySearchTreeSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\BinarySearchTree\UC-2 BinarySearchTreeSize\obj\Debug\net6.0\UC-2 BinarySearchTreeSize.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\BinarySearchTree\UC-2 BinarySearchTreeSize\obj\Debug\net6.0\UC-2 BinarySearchTreeSize.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\BinarySearchTree\UC-2 BinarySearchTreeSize\obj\Debug\net6.0\UC-2 BinarySearchTreeSize.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\BinarySearchTree\UC-2 BinarySearchTreeSize\obj\Debug\net6.0\UC-2 BinarySearchTreeSize.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\BinarySearchTree\UC-2 BinarySearchTreeSize\obj\Debug\net6.0\refint\UC-2 BinarySearchTreeSize.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\BinarySearchTree\UC-2 BinarySearchTreeSize\obj\Debug\net6.0\UC-2 BinarySearchTreeSize.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\BinarySearchTree\UC-2 BinarySearchTreeSize\obj\Debug\net6.0\UC-2 BinarySearchTreeSize.genruntimeconfig.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\BinarySearchTree\UC-2 BinarySearchTreeSize\obj\Debug\net6.0\ref\UC-2 BinarySearchTreeSize.dll

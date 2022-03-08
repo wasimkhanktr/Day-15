@@ -1,0 +1,15 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\BinarySearchTree\UC-1 Create BST\bin\Debug\net6.0\UC-1 Create BST.exe
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\BinarySearchTree\UC-1 Create BST\bin\Debug\net6.0\UC-1 Create BST.deps.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\BinarySearchTree\UC-1 Create BST\bin\Debug\net6.0\UC-1 Create BST.runtimeconfig.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\BinarySearchTree\UC-1 Create BST\bin\Debug\net6.0\UC-1 Create BST.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\BinarySearchTree\UC-1 Create BST\bin\Debug\net6.0\UC-1 Create BST.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\BinarySearchTree\UC-1 Create BST\obj\Debug\net6.0\UC-1 Create BST.csproj.AssemblyReference.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\BinarySearchTree\UC-1 Create BST\obj\Debug\net6.0\UC-1 Create BST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\BinarySearchTree\UC-1 Create BST\obj\Debug\net6.0\UC-1 Create BST.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\BinarySearchTree\UC-1 Create BST\obj\Debug\net6.0\UC-1 Create BST.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\BinarySearchTree\UC-1 Create BST\obj\Debug\net6.0\UC-1 Create BST.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\BinarySearchTree\UC-1 Create BST\obj\Debug\net6.0\UC-1 Create BST.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\BinarySearchTree\UC-1 Create BST\obj\Debug\net6.0\refint\UC-1 Create BST.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\BinarySearchTree\UC-1 Create BST\obj\Debug\net6.0\UC-1 Create BST.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\BinarySearchTree\UC-1 Create BST\obj\Debug\net6.0\UC-1 Create BST.genruntimeconfig.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\DAY-15\BinarySearchTree\UC-1 Create BST\obj\Debug\net6.0\ref\UC-1 Create BST.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UC-2 BinarySearchTreeSize/1.0.0": {
+        "runtime": {
+          "UC-2 BinarySearchTreeSize.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UC-2 BinarySearchTreeSize/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
